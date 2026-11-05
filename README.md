@@ -72,3 +72,7 @@ Author
 Mariam Fathima
 Computer Science and Engineering Student
 GitHub: "mariyamfathima01" (https://github.com/mariyamfathima01)
+
+## Internship Certification
+
+Successfully completed the Data Science Internship at Cognifyz Technologies.
